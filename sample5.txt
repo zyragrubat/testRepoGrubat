@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 mama mo nary
-=======
+
 mama mo tuts
->>>>>>> 3b9432e56139dae86c53b45c84d88b8c09c429d0
